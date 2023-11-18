@@ -7,8 +7,8 @@ public class TableOf4999 {
 		int tablenumber = 4999;
 		for (int i=1; i<=10; i++)
 			{
-				int result= tablenumber*i;
-				System.out.println(tablenumber + "*" + i+ "=" + result);
+				int result = tablenumber*i;
+				System.out.println(tablenumber + " * " + i+ " = " + result);
 			}
 			
 	}
